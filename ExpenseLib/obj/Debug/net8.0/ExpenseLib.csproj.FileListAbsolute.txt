@@ -1,0 +1,11 @@
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\bin\Debug\net8.0\ExpenseLib.deps.json
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\bin\Debug\net8.0\ExpenseLib.dll
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\bin\Debug\net8.0\ExpenseLib.pdb
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.AssemblyInfoInputs.cache
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.AssemblyInfo.cs
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.csproj.CoreCompileInputs.cache
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.dll
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\refint\ExpenseLib.dll
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ExpenseLib.pdb
+D:\CSD_G25_E2_Y4\OOAD\Expenses\ExpenseLib\obj\Debug\net8.0\ref\ExpenseLib.dll

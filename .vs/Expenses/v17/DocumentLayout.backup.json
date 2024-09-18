@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|d:\\csd_g25_e2_y4\\ooad\\expenses\\expenseconsole\\expenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|solutionrelative:expenseconsole\\expenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|d:\\csd_g25_e2_y4\\ooad\\expenses\\expenseconsole\\expenseconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|solutionrelative:expenseconsole\\expenseconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F454827-B597-4E10-8DDE-3A65251FEF9A}|ExpenseLib\\ExpenseLib.csproj|d:\\csd_g25_e2_y4\\ooad\\expenses\\expenselib\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F454827-B597-4E10-8DDE-3A65251FEF9A}|ExpenseLib\\ExpenseLib.csproj|solutionrelative:expenselib\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F454827-B597-4E10-8DDE-3A65251FEF9A}|ExpenseLib\\ExpenseLib.csproj|d:\\csd_g25_e2_y4\\ooad\\expenses\\expenselib\\expensetasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F454827-B597-4E10-8DDE-3A65251FEF9A}|ExpenseLib\\ExpenseLib.csproj|solutionrelative:expenselib\\expensetasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|d:\\csd_g25_e2_y4\\ooad\\expenses\\expenseconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EB65B6-3BBE-4D61-9AC2-4AE61CF407DA}|ExpenseConsole\\ExpenseConsole.csproj|solutionrelative:expenseconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseConsole",
+              "DocumentMoniker": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\ExpenseConsole.csproj",
+              "RelativeDocumentMoniker": "ExpenseConsole\\ExpenseConsole.csproj",
+              "ToolTip": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\ExpenseConsole.csproj",
+              "RelativeToolTip": "ExpenseConsole\\ExpenseConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T10:56:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "expenses.txt",
+              "DocumentMoniker": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\expenses.txt",
+              "RelativeDocumentMoniker": "ExpenseConsole\\expenses.txt",
+              "ToolTip": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\expenses.txt",
+              "RelativeToolTip": "ExpenseConsole\\expenses.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-16T10:54:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseConsole\\Program.cs",
+              "ToolTip": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseConsole\\Program.cs",
+              "RelativeToolTip": "ExpenseConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:50:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseTasks.cs",
+              "DocumentMoniker": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseLib\\ExpenseTasks.cs",
+              "RelativeDocumentMoniker": "ExpenseLib\\ExpenseTasks.cs",
+              "ToolTip": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseLib\\ExpenseTasks.cs",
+              "RelativeToolTip": "ExpenseLib\\ExpenseTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:42:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseLib\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseLib\\Expense.cs",
+              "ToolTip": "D:\\CSD_G25_E2_Y4\\OOAD\\Expenses\\ExpenseLib\\Expense.cs",
+              "RelativeToolTip": "ExpenseLib\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:40:57.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
